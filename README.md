@@ -1,6 +1,6 @@
 # Tanques - Mobile Game
 
-Jogo simples desenvolvido na engine Unity
+Jogo desenvolvido na engine Unity.
 
 [Tanks: Survive The War](https://dribbble.com/shots/5368806-Tanks-Survive-The-War) de Oleg Frolov
 
